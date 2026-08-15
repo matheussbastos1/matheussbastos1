@@ -37,17 +37,6 @@ Tenho interesse principalmente em **desenvolvimento de software**, com experiên
 
 ---
 
-### 📊 Minhas contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matheussbastos1/matheussbastos1/output/github-contribution-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<p align="center">
-  <i>Minhas contribuições no GitHub ao longo do tempo.</i>
-</p>
-
----
 
 
 ### 🔗 Contato
