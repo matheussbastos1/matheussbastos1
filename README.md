@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Tenho 20 anos e sou estudante de **Ciência da Computação na UFRPE**. Atualmente, estou desenvolvendo meus conhecimentos em programação e buscando minha primeira oportunidade profissional na área de **Tecnologia da Informação**.
+Tenho 21 anos e sou estudante de **Ciência da Computação na UFRPE**. Atualmente, estou desenvolvendo meus conhecimentos em programação e buscando minha primeira oportunidade profissional na área de **Tecnologia da Informação**.
 
 Tenho interesse principalmente em **desenvolvimento de software**, com experiência acadêmica e em projetos pessoais utilizando diferentes linguagens e tecnologias. Gosto de aprender na prática, entender como as coisas funcionam e buscar soluções para problemas através da programação.
 
